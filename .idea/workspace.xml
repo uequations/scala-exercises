@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d974527-8c37-489e-8b4d-aff036428182" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ScalaTest Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aYNhh1rzorQ7nQV3Sdyrsvthdd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest" value="org.scalatest.FlatSpec" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../intellij/build.sbt" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercise" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.FlatSpec" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.CovOpsSpec">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="exercise1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="exercise1" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CovOpsSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="exercise1" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="exercise.CovOpsSpec" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\malke\scala\lightbend\hello-scala\hello-scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="exercise1" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="exercise.HelloSpec" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\malke\scala\lightbend\hello-scala\hello-scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.CovOpsSpec" />
+        <item itemvalue="ScalaTest.HelloSpec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="solution" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/C:/Users/malke/scala/lightbend/hello-scala/hello-scala/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="solution-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4760726226105" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2016599785" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="1964861620" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2868604264" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/students-service/students-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-scala/akka-grpc-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-scala/akka-grpc-sample-kubernetes-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-scala/akka-http-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-scala/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-scala/hello-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-scala/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-scala/play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/akka-scala/play-samples-play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/appsody/appsody-akka-rest" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d974527-8c37-489e-8b4d-aff036428182" name="Default Changelist" comment="" />
+      <created>1586908687511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586908687511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2641" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1586909587634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2641" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586909587634" />
+    <state x="2610" y="217" key="FileChooserDialogImpl" timestamp="1586909203098">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="217" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586909203098" />
+    <state width="1865" height="270" key="GridCell.Tab.0.bottom" timestamp="1586910345889">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="270" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586910345889" />
+    <state width="1865" height="270" key="GridCell.Tab.0.center" timestamp="1586910345889">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="270" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586910345889" />
+    <state width="1865" height="270" key="GridCell.Tab.0.left" timestamp="1586910345889">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="270" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586910345889" />
+    <state width="1865" height="270" key="GridCell.Tab.0.right" timestamp="1586910345889">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="270" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586910345889" />
+    <state x="2633" y="172" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2" timestamp="1586909728566">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2633" y="172" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586909728566" />
+  </component>
+</project>
