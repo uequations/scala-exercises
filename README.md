@@ -1,4 +1,4 @@
-# scala-exercise-1
+# Scala Exercises
 
 Assume the days of current year is numbered 1 to 365.
 A Coverage is defined as range of dates with a coverage start and end/term date. Eg: Cov(1, 30) means the person is
