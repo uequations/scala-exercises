@@ -4,7 +4,7 @@ import scala.language.postfixOps
 
     def f(num:Int) : String = {
         val endNum = num - 1
-        val list = 0 to endNum toList// Write your code here
+        val list = 0 to endNum toList
 
         return list.mkString("[",", ","]")
     }
