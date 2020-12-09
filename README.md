@@ -1,3 +1,3 @@
 # Scala Exercises
 
-A few practive problems in Scala for you.
+A few practice problems in Scala for you.
