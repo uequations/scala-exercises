@@ -11,7 +11,7 @@ covered for something for Jan of this year.Problem: Given a series of coverage d
 longest continuous coverage. The coverage may have overlap and/or gaps in coverage.
 */
 
-object Solution extends App {
+object Coverages extends App {
 
   val logger: Logger = LoggerFactory.getLogger("Solution");
 
